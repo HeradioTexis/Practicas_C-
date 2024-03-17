@@ -1,7 +1,0 @@
-C:\Users\abira\source\repos\Viente_numeros\Viente_numeros\bin\Debug\Viente_numeros.exe.config
-C:\Users\abira\source\repos\Viente_numeros\Viente_numeros\bin\Debug\Viente_numeros.exe
-C:\Users\abira\source\repos\Viente_numeros\Viente_numeros\bin\Debug\Viente_numeros.pdb
-C:\Users\abira\source\repos\Viente_numeros\Viente_numeros\obj\Debug\Viente_numeros.csproj.AssemblyReference.cache
-C:\Users\abira\source\repos\Viente_numeros\Viente_numeros\obj\Debug\Viente_numeros.csproj.CoreCompileInputs.cache
-C:\Users\abira\source\repos\Viente_numeros\Viente_numeros\obj\Debug\Viente_numeros.exe
-C:\Users\abira\source\repos\Viente_numeros\Viente_numeros\obj\Debug\Viente_numeros.pdb

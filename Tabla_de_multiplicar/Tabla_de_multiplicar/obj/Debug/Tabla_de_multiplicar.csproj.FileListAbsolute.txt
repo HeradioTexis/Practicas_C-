@@ -1,7 +1,0 @@
-C:\Users\abira\source\repos\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\Tabla_de_multiplicar.exe.config
-C:\Users\abira\source\repos\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\Tabla_de_multiplicar.exe
-C:\Users\abira\source\repos\Tabla_de_multiplicar\Tabla_de_multiplicar\bin\Debug\Tabla_de_multiplicar.pdb
-C:\Users\abira\source\repos\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\Tabla_de_multiplicar.csproj.AssemblyReference.cache
-C:\Users\abira\source\repos\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\Tabla_de_multiplicar.csproj.CoreCompileInputs.cache
-C:\Users\abira\source\repos\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\Tabla_de_multiplicar.exe
-C:\Users\abira\source\repos\Tabla_de_multiplicar\Tabla_de_multiplicar\obj\Debug\Tabla_de_multiplicar.pdb
