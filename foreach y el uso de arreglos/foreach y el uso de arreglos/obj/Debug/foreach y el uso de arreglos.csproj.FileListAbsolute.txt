@@ -1,0 +1,7 @@
+C:\Users\abira\source\repos\foreach y el uso de arreglos\foreach y el uso de arreglos\bin\Debug\foreach y el uso de arreglos.exe.config
+C:\Users\abira\source\repos\foreach y el uso de arreglos\foreach y el uso de arreglos\bin\Debug\foreach y el uso de arreglos.exe
+C:\Users\abira\source\repos\foreach y el uso de arreglos\foreach y el uso de arreglos\bin\Debug\foreach y el uso de arreglos.pdb
+C:\Users\abira\source\repos\foreach y el uso de arreglos\foreach y el uso de arreglos\obj\Debug\foreach y el uso de arreglos.csproj.AssemblyReference.cache
+C:\Users\abira\source\repos\foreach y el uso de arreglos\foreach y el uso de arreglos\obj\Debug\foreach y el uso de arreglos.csproj.CoreCompileInputs.cache
+C:\Users\abira\source\repos\foreach y el uso de arreglos\foreach y el uso de arreglos\obj\Debug\foreach y el uso de arreglos.exe
+C:\Users\abira\source\repos\foreach y el uso de arreglos\foreach y el uso de arreglos\obj\Debug\foreach y el uso de arreglos.pdb
